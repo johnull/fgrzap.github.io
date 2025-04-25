@@ -4,7 +4,7 @@ Guia para o processo de abrir chamados no GLPI relacionados ao FGRZap.
 
 ## Passo a Passo
 
-1. **Acesse o GLPI**:
+1. **Acesse o GLPI**
    
 3. **Categoria de abertura de chamado**:
    - **TI** > **Desenvolvimento de Sistemas** > **FGRZap**.
